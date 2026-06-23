@@ -5,6 +5,10 @@
 
 **This project contains no real AI inference, no backend server, no model weights, and no actual patient data.** All displayed results are pre-defined mockup values for UI demonstration purposes only.
 
+<p align="center">
+  <img src="cover.png" alt="BoneWise AI — Pediatric Bone Age AI" width="900" />
+</p>
+
 ## Development Team (For project-related inquiries, please contact the following)
 
 박원호 - [langritspx@gmail.com](mailto:langritspx@gmail.com)
