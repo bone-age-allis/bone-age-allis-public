@@ -1,13 +1,29 @@
-# BoneWise AI — Pediatric Bone Age Public Demo
+# BoneAGE-ALLIS- AI — Pediatric Bone Age Public Demo
 
 > **Organization:** [bone-age-allis](https://github.com/bone-age-allis)  
 > **Repository:** `bone-age-allis-public`
 
-A static, click-through public demonstration of the **BoneWise AI** pediatric bone age prediction interface.
-
 **This project contains no real AI inference, no backend server, no model weights, and no actual patient data.** All displayed results are pre-defined mockup values for UI demonstration purposes only.
 
+## Development Team (For project-related inquiries, please contact the following)
+
+박원호 - [langritspx@gmail.com](mailto:langritspx@gmail.com)
+이현아 - [bun7680@gmail.com](mailto:bun7680@gmail.com)
+정이랑 - [drjungyirang@gmail.com](mailto:drjungyirang@gmail.com)
+
 ---
+
+BoneAGE-ALLIS AI — 소아 골연령 공개 데모
+
+BoneAGE ALLIS AI 소아 골연령 평가 시스템의 화면 구성과 분석 흐름을 보여주는 정적 웹 데모입니다.
+
+React/Vite 기반 프론트엔드 전용 시연 프로그램
+Main Analysis, ROI Analysis, Comparison, Report 화면 제공
+골연령 예측값, 앙상블 결과, ROI 결과는 모두 사전 정의된 Mock 데이터
+실제 AI 추론, 백엔드 서버, 모델 가중치, API 연결, 환자 데이터는 포함하지 않음
+일부 X-ray 이미지는 비식별화된 RSNA Pediatric Bone Age Challenge 공개 데이터셋 기반
+연구·교육·비상업적 시연 목적으로만 사용 가능
+의료기기 또는 임상 의사결정 지원 도구가 아니며, 진단·치료·환자 관리에 사용할 수 없음
 
 ## What This Is
 
@@ -184,4 +200,4 @@ and may only be used for non-commercial, research, and educational purposes.
 
 ---
 
-*BoneWise AI — KDT12 Silla System Project*
+*BoneAGE-ALLIS- AI — Pediatric Bone Age Public Demo*
