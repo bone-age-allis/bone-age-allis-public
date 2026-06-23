@@ -1,0 +1,59 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.local
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.onnx
+*.ckpt
+*.safetensors
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.joblib
+
+# Medical imaging files (must not be committed)
+*.dcm
+*.nii
+*.nii.gz
+
+# Private datasets and labels
+# Note: public/references/*.png are intentionally tracked (RSNA demo images)
+data/
+*.npy
+*.npz
+*.zip
+
+# Internal documents and backups
+*_backup/
+*_bak/
+internal/
+private/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
